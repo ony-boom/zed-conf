@@ -12,8 +12,10 @@
       "space f f": "file_finder::Toggle",
       "space e": "workspace::ToggleLeftDock",
       "space f w": "pane::DeploySearch",
+      "space l r": "editor::Rename",
       "space c": "pane::CloseActiveItem",
       "space l a": "editor::ToggleCodeActions",
+      "space /": "editor::ToggleComments",
 
       "] b": "pane::ActivateNextItem",
       "[ b": "pane::ActivatePreviousItem"
