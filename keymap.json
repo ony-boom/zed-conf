@@ -8,7 +8,6 @@
       "ctrl-j": "workspace::ActivatePaneDown",
 
       "space l f": "editor::Format",
-      "sapce l r": "editor::Rename",
       "space f f": "file_finder::Toggle",
       "space e": "workspace::ToggleLeftDock",
       "space f w": "pane::DeploySearch",
